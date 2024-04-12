@@ -1,3 +1,4 @@
+# full specifications at https://docs.crewai.com/core-concepts/Agents/
 import os
 from crewai import Agent, Task, Crew, Process
 from langchain_openai import ChatOpenAI
