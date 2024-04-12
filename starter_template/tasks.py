@@ -1,10 +1,10 @@
+# full specifications at https://docs.crewai.com/core-concepts/Tasks/
 from crewai import Task
 from textwrap import dedent
 
 
 # This is an example of how to define custom tasks.
 # You can define as many tasks as you want.
-# full specifications for tasks at https://docs.crewai.com/core-concepts/Tasks/
 
 class CustomTasks:
     def __tip_section(self):
